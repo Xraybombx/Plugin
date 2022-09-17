@@ -1,0 +1,23 @@
+{
+    "MOD": true,
+    "DISCORD":true,
+    "WHITELIST_PSN_XBOX":false,
+    "REALMCHATID": "1017552079990042665",
+    "TOKEN": "MTAxMjg3NzA5MDQ5Mzg0NTUxNA.G0oOax.MJPS52Rlctd-bEtcW1R20Qz6DtKQgFDcE42OG0",
+    "CLIENTID":"1012877090493845514",
+    "GUILDID":"979663929728962580",
+    "BANNED": ["Windows", "Android"],
+    "AUTOMODLOGS":"1020145629541969950",
+    "PLAYERLOGS":"1017552079990042665",
+    "EMAIL":"berpautomod@gmail.com",
+    "REALMID":13215535,
+     "GAMERSCORE_MINIMUM": 0,
+    "ANTISPAM": true,
+    "XBOXMESSAGE": true,
+    "SHOWDEATHMSGS": true,
+    "SHOWSKINCHANGES": true,
+
+
+    "PLUGINNAME": "DriedNetwork",
+    "DEVMODE": false
+}

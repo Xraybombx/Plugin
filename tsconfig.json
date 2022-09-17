@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "declaration": false,
+      "outDir": "dist",
+      "baseUrl": ".",
+      "target": "es2020",
+      "strictNullChecks": false,
+      "rootDir": "src",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true,
+      "removeComments": true
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": [
+      "node_modules",
+      "dist"
+    ],
+  }
